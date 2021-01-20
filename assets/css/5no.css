@@ -1,0 +1,29 @@
+.fifthstep{
+	display: inline-flex;
+
+}
+
+.fifthchild{
+	width: 370px;
+	height: 300px;
+	background: white;
+	border: 2px solid grey;
+	margin: 2px;
+}
+
+.fifthspan1{
+	position:relative;
+	top: 150px;
+	left: 20px;
+	color: red;
+}
+
+.inputfifth{
+	height: 30px;
+	width: 150px;
+	border: 2px solid red;
+	border-radius: 30px 30px;
+	background-color: red;
+	margin-top: 240px;
+	margin-left: 0px;
+}

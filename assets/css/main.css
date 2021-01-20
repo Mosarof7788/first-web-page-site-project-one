@@ -1,0 +1,45 @@
+@import url("13no.css");
+@import url("12no.css");
+@import url("11no.css");
+@import url("10no.css");
+@import url("9no.css");
+@import url("6no.css");
+/* @import url("7no.css"); */
+
+@import url("5no.css");
+.grid-container{
+	display: grid;
+	grid-template-columns: 500px 500px 500px 500px;
+	grid-template-rows: 300px 300px 300px 300px;
+	grid-gap: 20px;
+	background-color:grey;
+	padding: 10px;
+	height: 650px;
+}
+
+.grid-container >div{
+	background-color: rgba(255,255,255,0.9);
+	text-align: center;
+	padding: 20px 0;
+	font-size: 30px;
+
+}
+
+.item1{
+	grid-row: span 2;
+	margin-left: 20px;
+}
+.item2{
+	grid-column-end: span 2;
+
+}
+
+.item5{
+	/* grid-column-end: span 6; */
+
+}
+.item5{
+	grid-column: span 2;
+}
+
+

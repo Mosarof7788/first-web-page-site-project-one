@@ -1,0 +1,97 @@
+.eightstep{
+	background-color:green;
+	height: 300px;
+	width: 100%;
+	background-image: url("");
+	background-size: cover;
+	border: 2px solid red;
+}
+
+.ul1{
+	position: relative;
+	 left: 500px;
+}
+
+.h8{
+	position: relative;
+	 left: 500px;
+}
+
+.p10{
+	position: relative;
+	 left: 500px;
+	 top: 10px;
+}
+
+
+
+.p11{
+	position: relative;
+	 left: 500px;
+	 top: 10px;
+}
+
+.strong1{
+	position: relative;
+	 left: 500px;
+	 top: 20px;
+}
+
+.input1{
+	height: 40px;
+	width: 150px;
+	background-color: red;
+	margin-left: 500px;
+	border-radius: 20px 20px;
+	font-size: 18px;
+}
+
+.input2{
+	margin-left: 800px;
+	color: orange;
+	height: 50px;
+	width: 50px;
+	background-color: orange;
+	border-radius: 50%
+
+
+	
+}
+
+.input3{
+	color: blue;
+	height: 50px;
+	width: 50px;
+	background-color: blue;
+	border-radius: 50%
+
+	
+}
+.input4{
+	color: yellow;
+	height: 50px;
+	width: 50px;
+	background-color: yellow;
+	border-radius: 50%
+
+	
+}
+
+
+.input5{
+	color: purple;
+	height: 50px;
+	width: 50px;
+	background-color: purple;
+	border-radius: 50%
+
+	
+}
+
+
+
+
+
+
+
+

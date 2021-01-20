@@ -1,0 +1,30 @@
+.twelvestep{
+	background-color: grey;
+	
+	height: 300px;
+	width: 464px;
+	border: 2px solid red;
+	position: relative;
+	display: inline-flex;
+	
+}
+
+.twelvechild{
+	position: absolute;
+	border: 2px solid red;
+	background-color:red;
+	height: 100px;
+	width: 150px;
+	top: 194px;
+	border-radius: 10px 15px;
+}
+
+.p21{
+	position: absolute;
+	left: 50px;
+	/* text-align: center; */
+	top: 16px;
+	font-size: 22px;
+	color:white;
+	font-weight:700;
+}

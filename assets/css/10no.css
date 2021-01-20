@@ -1,0 +1,43 @@
+.tenstep{
+	background-color: grey;
+	color: white;
+	border: 2px solid red;
+	width: 100%;
+	height: 300px;
+}
+
+.p15{
+	margin-top: 100px;
+	margin-left: 150px;
+	color:rgba(255,255,255,1)
+
+}
+	
+	
+.span15{
+	font-size: 30px;
+	margin-left: 50px;
+}
+
+.input15{
+	margin-left: 200px;
+	/* margin-left: 10px; */
+	height: 40px;
+	width: 150px;
+	background-color:white;
+	/* margin-left: 500px; */
+	border-radius: 20px 20px;
+	font-size: 18px;
+}
+
+
+.input16{
+	margin-left: 10px;
+	height: 40px;
+	width: 150px;
+	background-color: orange;
+	/* margin-left: 500px; */
+	border-radius: 20px 20px;
+	font-size: 18px;
+}
+

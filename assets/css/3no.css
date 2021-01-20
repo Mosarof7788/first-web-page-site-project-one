@@ -1,0 +1,21 @@
+.thirdstep{
+	height: 150px;
+	width: 100%;
+	background-color:rgba(255,255,255,1)
+	/* margin-top: px; */
+}
+
+.thirdstepchild{
+	/* background-color: red; */
+	position: relative;
+	top: 70px;
+	left: 690px;
+	/* width: 400px; */
+	/* height: 300px; */
+}
+.p6{
+	font-size: 15px;
+}
+.p7{
+	font-size: 30px;
+}
